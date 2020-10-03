@@ -74,8 +74,7 @@ pip install Flask
 * Wait till you got a window displaying options like Download/Visit Website!
 
 ## Screenshots
-<img width="923" alt="11" src="https://user-images.githubusercontent.com/41858958/79599995-10354400-8104-11ea-89da-34c1b4f9c94c.png">
-<img width="946" alt="link" src="https://user-images.githubusercontent.com/41858958/79861038-571b8600-83f1-11ea-9833-d5122a1e40fe.PNG">
+
 
 <img width="949" alt="form11" src="https://github.com/Devansh252/screenshotsDossier/blob/main/Screenshot%20(290).png?raw=true">
 <img width="948" alt="form12" src="https://github.com/Devansh252/screenshotsDossier/blob/main/Screenshot%20(291).png?raw=true">
