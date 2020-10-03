@@ -51,7 +51,7 @@ pip install selenium
 
 install zipfile
 ```
-ppip install zipfile37
+pip install zipfile37
 ```
 
 Install flask
